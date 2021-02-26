@@ -28,7 +28,7 @@ The official documentation is hosted on Read the Docs: https://pypkgsljj.readthe
 
 ## Contributors
 
-We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/jiajie0225/pypkgsljj/graphs/contributors).
+We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/jiajie0225/pypkgs_ljj/graphs/contributors).
 
 ### Credits
 
