@@ -24,7 +24,7 @@ $ pip install -i https://test.pypi.org/simple/ pypkgs_ljj
 
 ## Documentation
 
-The official documentation is hosted on Read the Docs: https://pypkgs_ljj.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://pypkgsljj.readthedocs.io/en/latest/
 
 ## Contributors
 
